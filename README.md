@@ -124,4 +124,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/9bfaa955-9d72-4289-8d17-29da4ceb8110)
 
 # Result:
- Include your result here
+Thus, data visualisation has been done successfully.
